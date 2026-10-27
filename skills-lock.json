@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "skills": {
+    "telnyx-ai-assistants-python": {
+      "source": "team-telnyx/ai",
+      "sourceType": "github",
+      "skillPath": "skills/telnyx-ai-assistants-python/SKILL.md",
+      "computedHash": "07e9ccf05327bc74885fc6e65612e0f174d4a586cf6a9780464d384f331b369d"
+    },
+    "telnyx-ai-inference-python": {
+      "source": "team-telnyx/ai",
+      "sourceType": "github",
+      "skillPath": "skills/telnyx-ai-inference-python/SKILL.md",
+      "computedHash": "ca083d898d43f5e585b415530969dea6a1217a337a7f5e507b22e9cbae0bf9f0"
+    },
+    "telnyx-numbers-compliance-python": {
+      "source": "team-telnyx/ai",
+      "sourceType": "github",
+      "skillPath": "skills/telnyx-numbers-compliance-python/SKILL.md",
+      "computedHash": "509a072b0591358f688050d2230dfc3adb7f119d5864d6cb7ff96e5b93c18640"
+    },
+    "telnyx-numbers-python": {
+      "source": "team-telnyx/ai",
+      "sourceType": "github",
+      "skillPath": "skills/telnyx-numbers-python/SKILL.md",
+      "computedHash": "9449d86eefcf2720ebecbb2807e3f9a047476c51f7877dddb900d8f96f0ade4c"
+    },
+    "telnyx-sip-python": {
+      "source": "team-telnyx/ai",
+      "sourceType": "github",
+      "skillPath": "skills/telnyx-sip-python/SKILL.md",
+      "computedHash": "c28212d27f9c4d7e984534bdf683ca01199818fc517ee9bde5b6c1731abf765b"
+    },
+    "telnyx-texml-python": {
+      "source": "team-telnyx/ai",
+      "sourceType": "github",
+      "skillPath": "skills/telnyx-texml-python/SKILL.md",
+      "computedHash": "2f43405de98e2c8ae6397bc23ce8ffb73aa6b5332f12989f817886aef1787091"
+    },
+    "telnyx-voice-python": {
+      "source": "team-telnyx/ai",
+      "sourceType": "github",
+      "skillPath": "skills/telnyx-voice-python/SKILL.md",
+      "computedHash": "6aaec7930db12788e1091b5e9ab558e6893ace89b94081f6bd4f671fe7fa2089"
+    }
+  }
+}
